@@ -1,4 +1,8 @@
 ## Olá! Eu me chamo Jurandi Junior 👋
+- 👨🏼‍🎓 Atualmente cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 2/5
+- 📚 Estudando e aprimorando meus conhecimentos na linguagem de programação Java ☕
+- 📒 Conhecimentos base em JavaScript, HTML5 e CSS3.
+
 <div align="center">
   <a href="https://github.com/Jurandi-Junior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jurandi-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
