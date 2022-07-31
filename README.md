@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Jurandi Junior 👋
 - 👨🏼‍🎓 Atualmente cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 2/5
 - 📚 Estudando e aprimorando meus conhecimentos na linguagem de programação Java ☕
-- 📒 Conhecimentos base em JavaScript, HTML5, CSS3 E SQL Server.
+- 📒 Conhecimentos base em JavaScript, HTML5, CSS3 e SQL Server.
 
 <div align="center">
   <a href="https://github.com/Jurandi-Junior">
