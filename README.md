@@ -4,9 +4,9 @@
 - 📒 Conhecimentos base em JavaScript, HTML5, CSS3 e SQL Server.
 
 <div align="center">
-  <a href="https://github.com/Jurandi-Junior">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jurandi-Junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurandi-Junior&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/jurandi1">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jurandi1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurandi1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
