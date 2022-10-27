@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Jurandi Junior 👋
 - 👨🏼‍🎓 Atualmente cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 2/5
-- 📚 Estudando e aprimorando meus conhecimentos na linguagem de programação Java ☕
+- 📚 Estudando a linguagem de programação Java ☕
 - 📒 Conhecimentos base em JavaScript, HTML5, CSS3 e SQL Server.
 
 <div align="center">
@@ -10,11 +10,24 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Junior-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Junior-Java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Junior-Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">     
+  <img align="center" alt="Junior-Eclipse" height="30" width="30" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
+ </div>
+
+  
+ ##
+  
+  
+ <div>
   <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Junior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Junior-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+          
+ </div>
+  
+
 
 ##
 
