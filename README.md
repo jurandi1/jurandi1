@@ -9,7 +9,7 @@
 
 - Banco de Dados: SQL Server. 
 
-- Versionamento: Git.
+- Versionamento: Git e GitHub.
 
 <div style="display: inline_block"><br>
    <a href="https://github.com/jurandi1/dsmeta"> <img align="center" alt="Junior-Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
