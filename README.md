@@ -3,7 +3,7 @@
 
 📚 Conhecimentos e Habilidades: 
 
-- Back-end: Java e Spring Boot.
+- Back-end: Java e Spring Boot, JPA, Hibernate e Mavem.
 
 - Front-end: JavaScript, HTML5 e CSS3.
 
