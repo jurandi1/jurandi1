@@ -7,7 +7,7 @@
 
 - Front-end: JavaScript, HTML5 e CSS3.
 
-- Banco de Dados: SQL Server. 
+- Banco de Dados: SQL Server, SQL. 
 
 - Versionamento: Git.
 
