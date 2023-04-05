@@ -12,7 +12,7 @@
 - Versionamento: Git.
 
 <div style="display: inline_block"><br>
-   <a href="https://github.com/jurandi1/dsmeta"> <img align="center" alt="Junior-Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
+   <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
    <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Spring" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> </a>
    <a href="https://github.com/jurandi1/Curso-JS"> <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" </a>
    <a href="https://github.com/jurandi1/barbearia_alura"> <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
