@@ -1,5 +1,5 @@
 ## Olá! Eu me chamo Jurandi Junior, um recém desenvolvedor de software 👋
-👨🏼‍🎓 Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 3/5
+👨🏼‍🎓 Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 4/5
 
 📚 Conhecimentos e Habilidades: 
 
