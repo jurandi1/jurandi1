@@ -1,20 +1,24 @@
-## Olá! Eu me chamo Jurandi Junior, um recém desenvolvedor de software 👋
+### Olá! Eu me chamo Jurandi, sou desenvolvedor junior atuando e me aprimorando com C# .NET 👋
 👨🏼‍🎓 Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas - 💻 4/5
 
 📚 Conhecimentos e Habilidades: 
 
-- Back-end: Java, Spring Boot, JPA, Hibernate e Maven.
+- Back-end: C# .NET, Java, Spring Boot, JPA, Hibernate e Maven.
 
 - Front-end: JavaScript, HTML5 e CSS3.
 
-- Banco de Dados: MySQL e SQL Server. 
+- Banco de Dados: Oracle Database e SQL Server. 
 
 - Versionamento: Git.
 
+<br />
+<b><p>Clique em algum ícone e confira os projetos em desenvolvimento ou desenvolvido referente a linguagem:</p></b>
+
 <div style="display: inline_block"><br>
+   <a href="https://github.com/jurandi1/challenges_csharp_basic"> <img align="center" alt="Junior-C#" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> </a>
+   <a href="https://github.com/jurandi1/logic_csharp_basic"> <img align="center" alt="Junior-Dot-Net_Core" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> </a>
    <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
    <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Spring" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> </a>
-   <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> </a> 
    <a href="https://github.com/jurandi1/barbearia_alura"> <img align="center" alt="Junior-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </a>
    <a href="https://github.com/jurandi1/Curso-JS"> <img align="center" alt="Junior-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" </a>
    <a href="https://github.com/jurandi1/barbearia_alura"> <img align="center" alt="Junior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
