@@ -3,7 +3,7 @@
 
 📚 Conhecimentos e Habilidades: 
 
-- Back-end: C# .NET, Java, Spring Boot, JPA, Hibernate e Maven.
+- Back-end: C# .NET.
 
 - Front-end: JavaScript, HTML5 e CSS3.
 
