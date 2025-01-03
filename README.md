@@ -1,14 +1,15 @@
 # Olá! Eu sou Jurandi 👋
 
-Atualmente, estou trabalhando como Desenvolvedor Júnior C# e cursando o último semestre da faculdade de Análise e Desenvolvimento de Sistemas.
+Concluí a faculdade de Análise e Desenvolvimento de Sistemas e atualmente atuo como Desenvolvedor Junior C# | .NET
 
 ## 🛠️ Habilidades e Conhecimentos
 
 - **Back-end**: C# e Java
 - **Front-end**: HTML, CSS, Javascript
+- **Framework**: .NET
 - **Banco de Dados**: Oracle Database e SQL Server
 - **Versionamento**: Git
-- **IDEs**: Visual Studio e Eclipse
+- **IDEs**: Visual Studio, Visual Studio Code e Eclipse
 
 ## 📚 Projetos
 
