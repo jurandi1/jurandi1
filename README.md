@@ -1,6 +1,6 @@
 # Olá! Eu sou Jurandi 👋  
 
-**Desenvolvedor Full-Stack .NET (C#/ASP.NET Web Forms) | SQL Server/Oracle**  
+**Desenvolvedor (C#/ASP.NET Web Forms) | SQL Server/Oracle**  
 Atuo no desenvolvimento de sistemas hospitalares na Santa Casa de Misericórdia de SP.  
 
 ## 🛠️ Stack Principal  
