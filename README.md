@@ -1,12 +1,12 @@
 # Olá! Eu sou Jurandi 👋  
 
 **Desenvolvedor (C#/ASP.NET Web Forms) | SQL Server/Oracle**  
-Atuo no desenvolvimento de sistemas hospitalares na Santa Casa de Misericórdia de SP.  
+Atuo na equipe de desenvolvimento de sistemas da Santa Casa de Misericórdia de São Paulo.  
 
 ## 🛠️ Stack Principal  
-- **Back-end:** C# (ASP.NET Web Forms), SQL Server (T-SQL, Stored Procedures)  
+- **Back-end:** C# (ASP.NET Web Forms), SQL Server (T-SQL, Stored Procedures), Oracle  
 - **Front-end:** JavaScript, HTML5, CSS3  
-- **Ferramentas:** Visual Studio, Git  
+- **Ferramentas:** Visual Studio, Git, GitHub  
 
 ## 📚 Projetos
 
@@ -14,7 +14,7 @@ Clique nos ícones abaixo para conferir os aprendizados de cada linguagem:
 
 <div style="display: inline_block">
    <a href="https://github.com/jurandi1/challenges_csharp_basic"> <img align="center" alt="Junior-C#" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> </a>
-   <a href="https://github.com/jurandi1/logic_csharp_basic"> <img align="center" alt="Junior-Dot-Net_Core" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> </a>
+   <a href="https://github.com/jurandi1/jjr-loja"> <img align="center" alt="Junior-Dot-Net_Core" height="36" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"> </a>
    <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Java" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> </a>
    <a href="https://github.com/jurandi1/curso-java-alura"> <img align="center" alt="Junior-Spring" height="36" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> </a>
    <a href="https://github.com/jurandi1/barbearia_alura"> <img align="center" alt="Junior-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> </a>
