@@ -24,7 +24,9 @@ Clique nos ícones abaixo para conferir os aprendizados de cada linguagem:
 </div>
 
 ## 📊 Estatísticas  
-![C# Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jurandi1&hide=html,css&theme=dark&layout=compact)  
+![C# Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jurandi1&hide=html,css&theme=dark&layout=compact&cache_seconds=86400)
+
+
 
 ## 🌐 Redes Sociais
 
