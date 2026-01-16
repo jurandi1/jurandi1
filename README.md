@@ -1,10 +1,10 @@
 # Olá! Eu sou Jurandi 👋  
 
-**Desenvolvedor (C#/ASP.NET Web Forms) | SQL Server/Oracle**  
+**Desenvolvedor.NET
 Atuo na equipe de desenvolvimento de sistemas da Santa Casa de Misericórdia de São Paulo.  
 
 ## 🛠️ Stack Principal  
-- **Back-end:** C# (ASP.NET Web Forms), SQL Server (T-SQL, Stored Procedures), Oracle  
+- **Back-end:** .NET, C#, SQL Server (T-SQL, Stored Procedures), Oracle  
 - **Front-end:** JavaScript, HTML5, CSS3  
 - **Ferramentas:** Visual Studio, Git, GitHub  
 
