@@ -1,6 +1,7 @@
 # Olá! Eu sou Jurandi 👋  
 
-**Desenvolvedor.NET
+**Desenvolvedor.NET**
+
 Atuo na equipe de desenvolvimento de sistemas da Santa Casa de Misericórdia de São Paulo.  
 
 ## 🛠️ Stack Principal  
